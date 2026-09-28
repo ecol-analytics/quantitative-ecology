@@ -112,9 +112,9 @@ This repository provides an overview of the course, setup information and select
 
 The complete teaching materials, practical exercises and worked investigations are used during course delivery and are not reproduced here.
 
-For software requirements and installation guidance, see [**Setup**]().
+For software requirements and installation guidance, see **[Setup](setup.md)**.
 
-For the five-day structure, see [**Course outline**]().
+For the five-day structure, see **[Course outline](course-outline.md)**.
 
 ***
 
