@@ -8,7 +8,7 @@ The course is cumulative. Rather than treating statistical methods as independen
 
 The broad progression is:
 
-**Research Design → Explore → Explain → Challenge → Predict**
+**Research Design → Explore → Model → Challenge → Predict → Interpret**
 
 ***
 
