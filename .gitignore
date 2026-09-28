@@ -1,0 +1,31 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Quarto
+.quarto/
+*_cache/
+*_files/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+*~
+*.swp
+*.swo
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# LibreOffice temporary files
+.~lock.*
+
+# Temporary files
+*.tmp
+*.temp
