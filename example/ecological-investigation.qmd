@@ -2,9 +2,9 @@
 title: "A Small Ecological Investigation"
 subtitle: "From observation to model"
 format:
-  html:
+  gfm:
     toc: false
-    embed-resources: true
+    output-file: ecological-investigation.md
 execute:
   echo: true
   warning: false

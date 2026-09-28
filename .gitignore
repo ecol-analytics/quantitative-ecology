@@ -7,7 +7,6 @@
 # Quarto
 .quarto/
 *_cache/
-*_files/
 
 # Jupyter
 .ipynb_checkpoints/
