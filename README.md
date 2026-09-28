@@ -102,9 +102,9 @@ A short example investigation is included in this repository to demonstrate the 
 
 Rather than presenting a statistical technique and then demonstrating its use, the example begins with an ecological pattern, asks what might explain it, and considers whether a simple model adequately represents the observed biology.
 
-[**Example investigation**]()
+**[Explore the example investigation](example/ecological-investigation.html)**
 
-The example is illustrative rather than a complete course exercise. Full practical sessions develop these ideas through extended ecological investigations, discussion and interpretation.
+The example uses a small synthetic reef-fish transect dataset included in this repository, and is illustrative rather than a complete course exercise. Full practical sessions develop these ideas through extended ecological investigations, discussion and interpretation.
 
 ## Course materials
 
