@@ -9,7 +9,6 @@ Ecological research increasingly involves complex data and increasingly sophisti
 R is used throughout as the working language, but **this is not primarily an R course**. The emphasis is on developing a way of thinking about ecological data:
 ![course-framework.png](images/course-framework.png)
 
-
 ## Course philosophy
 
 The course is organised around **investigations rather than techniques**.
@@ -28,17 +27,29 @@ but instead:
 
 This approach also provides the basis for understanding the relationship between classical statistical modelling and modern predictive approaches. Explanation and prediction are related, but they are not the same scientific objective.
 
-## The week
+## Core course: five days
 
 | Day                                           | Question                                        | Quantitative ideas                                                                                   |
 | --------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **1 — Understanding the evidence**            | What do we actually have?                       | Research design, sampling, exploratory analysis, distributions, missing data and uncertainty         |
-| **2 — Explaining variation**                  | Can we explain the patterns we observe?         | Generalised linear models, response distributions, link functions and biological interpretation      |
-| **3 — Representing ecological relationships** | What if relationships are not linear?           | Generalised additive models, smooth relationships and ecological interpretation                      |
-| **4 — Recognising structure**                 | What if observations are not independent?       | Hierarchical data, mixed models, random effects and sources of variation                             |
-| **5 — Prediction**                            | Can our understanding predict new observations? | Prediction, validation, cross-validation, generalisation and an introduction to predictive modelling |
+| **1. Understanding the evidence**            | What do we actually have?                       | Research design, sampling, exploratory analysis, distributions, missing data and uncertainty         |
+| **2. Explaining variation**                  | Can we explain the patterns we observe?         | Generalised linear models, response distributions, link functions and biological interpretation      |
+| **3. Representing ecological relationships** | What if relationships are not linear?           | Generalised additive models, smooth relationships and ecological interpretation                      |
+| **4. Recognising structure**                 | What if observations are not independent?       | Hierarchical data, mixed models, random effects and sources of variation                             |
+| **5. Prediction**                            | Can our understanding predict new observations? | Prediction, validation, cross-validation, generalisation and an introduction to predictive modelling |
 
 The progression is cumulative. Participants work with a small number of ecological datasets throughout the course rather than encountering a new demonstration dataset for every statistical method. Each stage builds on what has already been learned about the ecological system.
+
+## Extending the core
+
+The five-day course provides the foundation for further quantitative ecological modelling. A second five-day module extends the same reasoning into space and time, asking what changes when ecological observations span locations, years and environmental conditions.
+
+Rather than introducing spatial and temporal analysis as separate collections of techniques, the extension begins with the models developed in the core course and progressively expands the domain in which they are expected to operate:
+
+**Space → Time → Integration → Prediction → Forecasting**
+
+The emphasis shifts from understanding and predicting observations within a relatively bounded ecological dataset to asking where, when and under what conditions that understanding can be expected to generalise.
+
+For the developing five-day extension, see [**Ecological Models in Space and Time**](space-time-outline.md).
 
 ## From explanation to prediction
 
@@ -102,7 +113,7 @@ A short example investigation is included in this repository to demonstrate the 
 
 Rather than presenting a statistical technique and then demonstrating its use, the example begins with an ecological pattern, asks what might explain it, and considers whether a simple model adequately represents the observed biology.
 
-**[Explore the example investigation](example/ecological-investigation.md)**
+[**Explore the example investigation**](example/ecological-investigation.md)
 
 The example uses a small synthetic reef-fish transect dataset included in this repository, and is illustrative rather than a complete course exercise. Full practical sessions develop these ideas through extended ecological investigations, discussion and interpretation.
 
@@ -112,9 +123,11 @@ This repository provides an overview of the course, setup information and select
 
 The complete teaching materials, practical exercises and worked investigations are used during course delivery and are not reproduced here.
 
-For software requirements and installation guidance, see **[Setup](setup.md)**.
+For software requirements and installation guidance, see [**Setup**](setup.md).
 
-For the five-day structure, see **[Course outline](course-outline.md)**.
+For the five-day core course, see [**Course outline**](course-outline.md).
+
+For the developing extension, see [**Ecological Models in Space and Time**](space-time.md).
 
 ***
 
