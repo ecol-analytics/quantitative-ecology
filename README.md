@@ -127,7 +127,7 @@ For software requirements and installation guidance, see [**Setup**](setup.md).
 
 For the five-day core course, see [**Course outline**](course-outline.md).
 
-For the developing extension, see [**Ecological Models in Space and Time**](space-time.md).
+For the developing extension, see [**Ecological Models in Space and Time**](space-time-outline.md).
 
 ***
 
